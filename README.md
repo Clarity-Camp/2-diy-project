@@ -3,7 +3,7 @@
 ### Description
 This contract is responsible for starting a vote, voting duration the voting period and ending the vote. 
 
-As a starter, we have already completed the implementatiion of the function of starting the vote `start-vote`. Take a read carefully of what ll it does to start the vote. 
+As a starter, we have already completed the implementatiion of the function of starting the vote `start-vote`. Take a read carefully of what it does to start the vote. 
 
 ### Tasks
 
